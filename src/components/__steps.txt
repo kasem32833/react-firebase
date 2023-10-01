@@ -1,0 +1,5 @@
+1. create firebase account 
+2. add new project
+3. instal firebase using 
+4. create firebase.config.js file and copy code from console 
+5. Create a login component and add app and auth form firebase config.js and firebase
